@@ -1,6 +1,7 @@
 #include <stdio.h>      // Standard input/output library
 #include <stdlib.h>
 
+// Program created by: Stephen Kortum
 
 // Function prototypes
 void intorduction()
@@ -45,10 +46,7 @@ void intorduction()
         printf("|  9  |  25 |  40  |  54 | 6 4 |\n");
         printf("+-----+-----+------+-----+-----+\n\n\n\n");
         
-
-        
-    }
-;
+}
 
 // Main function
 int main() {
