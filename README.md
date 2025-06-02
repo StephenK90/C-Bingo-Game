@@ -1,8 +1,9 @@
-# C-Bingo-Game
+# Simple C code Programs created for school assignments
+
+C-Bingo-Game
 A BINGO Game created and ran through C.
 
 Project description
-
 
 This project requires you to randomly generate a BINGO card and play various versions
 of the game and score accordingly. The project will include the use of primitive data type
