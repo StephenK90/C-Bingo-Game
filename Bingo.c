@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>      // Standard input/output library
 #include <stdlib.h>
 
 
@@ -16,7 +16,7 @@ void intorduction()
     printf("`-._`.___,'    `--`-`   `--`./  `--`   `--`------'       `--`--''     \n");
     printf("\n\n");
     
-    printf("RULES OF THE GAME:\n");
+    printf("RULES OF THE GAME:\n"); // print rules of the game
     printf("1. A player recieves a Bingo card\n");
     printf("2. Each card has a random placemnet of numbers for each column, B, I, N, G, O\n");
     printf("         Column B contains values 1-15\n");
@@ -56,7 +56,7 @@ int main() {
     showCard();
    
     printf("Press Enter to exit...");
-    getchar(); // Waits for user to press Enter
+    getchar(); // Waits for user to press Enter to exit
 
     return 0;
 }
